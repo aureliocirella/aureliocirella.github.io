@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aurelio Cirella</title>
-    <link>https://example.com/tags/</link>
+    <link>https://aureliocirella.github.io/tags/</link>
     <description>Recent content in Tags on Aurelio Cirella</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2009 14:09:10 +0000</lastBuildDate><atom:link href="https://aureliocirella.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>apache</title>
-      <link>https://example.com/tags/apache/</link>
+      <link>https://aureliocirella.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/apache/</guid>
+      <guid>https://aureliocirella.github.io/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://example.com/tags/redirect/</link>
+      <link>https://aureliocirella.github.io/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/redirect/</guid>
+      <guid>https://aureliocirella.github.io/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://example.com/tags/rewrite/</link>
+      <link>https://aureliocirella.github.io/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/rewrite/</guid>
+      <guid>https://aureliocirella.github.io/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://example.com/tags/ssl/</link>
+      <link>https://aureliocirella.github.io/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/ssl/</guid>
+      <guid>https://aureliocirella.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://example.com/tags/web-development/</link>
+      <link>https://aureliocirella.github.io/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://example.com/tags/web-development/</guid>
+      <guid>https://aureliocirella.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     

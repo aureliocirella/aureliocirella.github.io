@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://aureliocirella.github.io/</loc>
     <lastmod>2018-02-10T18:56:13-05:00</lastmod>
     <priority>1</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/apache/</loc>
+    <loc>https://aureliocirella.github.io/tags/apache/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://aureliocirella.github.io/blog/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/force-ssl/</loc>
+    <loc>https://aureliocirella.github.io/blog/force-ssl/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/redirect/</loc>
+    <loc>https://aureliocirella.github.io/tags/redirect/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/rewrite/</loc>
+    <loc>https://aureliocirella.github.io/tags/rewrite/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/ssl/</loc>
+    <loc>https://aureliocirella.github.io/tags/ssl/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://aureliocirella.github.io/tags/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/web-development/</loc>
+    <loc>https://aureliocirella.github.io/tags/web-development/</loc>
     <lastmod>2009-01-01T14:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://aureliocirella.github.io/search/</loc>
     <priority>0.1</priority>
   </url>
   
   <url>
-    <loc>https://example.com/true/</loc>
+    <loc>https://aureliocirella.github.io/true/</loc>
   </url>
   
 </urlset>
